@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(232, 149, 40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+input, button {
+    border-radius: 6px;
+}
